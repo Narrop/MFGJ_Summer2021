@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/MFGJ_062021_Tutorial_level_music.mp3-f9fc19110b1c339d6efdeaaa1083b84d.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/MFGJ_062021_Tutorial_level_music.mp3"
+dest_files=[ "res://.import/MFGJ_062021_Tutorial_level_music.mp3-f9fc19110b1c339d6efdeaaa1083b84d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
